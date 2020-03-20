@@ -54,12 +54,10 @@ pen.write("Player 1: 0   Player 2:0 " , align = "center" , font =("Courier" ,24 
 
 
 #score
-
 score_1 = 0
 score_2 = 0
 
 # Creating Functions
-
 def paddle_a_UP():
     y = paddle_a.ycor()
     y += 20
