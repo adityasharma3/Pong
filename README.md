@@ -4,5 +4,7 @@ This project was created after reference to some websites such as: www.freecodec
 
 What I learned:
 Making use of different packages such as Turtle and sys
+
 Functional Programming
+
 Getting comfortable with large scripts of code.
